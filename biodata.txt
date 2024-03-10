@@ -1,0 +1,4 @@
+name = krishn
+location = jammalamadugu
+f.name = ganganna
+m.name = govindamma
